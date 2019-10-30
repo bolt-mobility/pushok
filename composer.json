@@ -1,5 +1,5 @@
 {
-    "name": "edamov/pushok",
+    "name": "bolt-mobility/pushok",
     "type": "library",
     "description": "PHP client for Apple Push Notification Service (APNs) - Send push notifications to iOS using the new APNs HTTP/2 protocol with token-based (JWT with p8 private key) or certificate-based authentication",
     "keywords": [
@@ -16,7 +16,13 @@
             "email": "edamov@gmail.com",
             "homepage": "https://github.com/edamov",
             "role": "Developer"
-        }
+        },{
+            "name": "Chris Raastad",
+            "email": "chris@micromobility.com"
+        },{
+            "name": "Konstantin Kabanov",
+            "email": "konstantin@micromobility.com"
+	}
     ],
     "require": {
         "php": "^7.1",
